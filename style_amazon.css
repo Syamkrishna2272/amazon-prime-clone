@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  'Assistant', sans-serif;
+}
+.header{
+    background: #000000;
+    height: 50px;
+    width: 100%;
+    position: fixed;        
+}
+nav{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1%;
+    
+}
+.logo a{
+    color:white ;
+    text-decoration: none;
+    font-size: 23px;
+   padding: 100px;
+   align-items: center;
+
+}
+ul a{
+    
+    margin-right: 55px;
+    margin-top: -21px;
+    color: white;
+    font-size: 17px;
+    display: inline-block;
+    text-decoration: none;
+}
+ul a{
+    font-weight: normal;
+}
+
+
+.FirstSec{
+  
+ width: 100%;
+background-image: url(img/MLP\ 2.jpg);
+height:700px ;
+
+display: flex;
+align-items: center;
+justify-content: left;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+}
+.seconSec{
+    color:antiquewhite;
+    font-family: 'Comfortaa', cursive;
+    display: flex;
+    text-align: start;   
+    padding-left: 45px;
+    padding-bottom: 250px;
+    margin-left: 14px;
+    font-size: 24px;
+   
+}
+.seconSec h1{
+    font-weight:normal;
+}
+.thirdsec{
+    color:antiquewhite;
+    font-family:'Comfortaa', cursive;
+    display: flex;
+    flex-direction: row;
+    font-size: 13px;   
+    padding: left -354px;;
+    padding-bottom: 24px;
+    margin-top: -111px;
+    margin-left: -34%;
+    line-height: 28.8px;
+}
+.thirdsec h2{
+    font-weight:normal;
+}
+.box1{
+    background: #0f79af;
+    width: 280px;
+    height: 48px;
+    margin-left: -444px;
+    color: white;
+    align-items: center;
+    font-family:'Comfortaa', cursive;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;   
+}
+.fourthsec{
+    background-image: url(img/TVOD_MLP_Left\ 2.jpg);
+    width: 100%;
+    height:500px ;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fifthsec{
+    color: white;
+    padding-left: 900px;
+    padding-bottom: 200px;
+    font-family:'Comfortaa', cursive'
+    margin-right -100px;
+    line-height: 45px;
+}
+.fifthsec h1{
+    font-weight: normal;
+    font-size: 40px;
+}
+.fifthsec h3{
+    font-weight: normal;
+    font-size: 21px;
+}
+.box2{
+    background: #0f79af;
+    width: 280px;
+    height: 48px;
+    color: white;
+    align-items: center;
+    font-family:'Comfortaa', cursive;
+    margin-left: -416px;
+    text-align: center;
+    cursor: pointer;
+    text-align :center;
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+.sixthsec{
+    width:100%;
+    background-color:white;
+    display: flex;
+    gap: 10px;
+}
+.pic1{
+    width: 220.89px;
+    height: 153.13px;     
+}
+
+.pic1:hover{
+    width: 221.89px;
+    height: 154.13px; 
+    box-shadow: 2px 2px 2px 2px #58707c;
+    
+}
+.sixth-left{
+    width: 50%;
+    background-color: white;
+    padding: 30px;
+
+}
+.sixth-left h1{
+    font-weight: normal;
+    margin-left: 25px;
+    font-size: 44.8px;
+}
+.sixth-left h3{
+    font-weight: normal;
+    margin-left: 25px;
+    font-size: 24px;
+}
+.sixth-right{
+    width: 50%;
+    background-color: white;
+    padding: 10px;   
+}
+
+.seventhsec{
+    width: 100%;
+    background-image: url(img/remote.jpg);
+    height:500px ;
+
+display: flex;
+align-items: center;
+justify-content: left;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+}
+.eighthsec{
+    color: white;
+    padding-left: 900px;
+    padding-bottom: 200px;
+    font-family:'Roboto', sTajawal;
+    margin: right -100px;;
+
+}
+.eighthsec h1{
+    font-weight: normal;
+    font-size: 40px;
+
+}
+.eighthsec h4{
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 27px;
+
+}
+.box3{
+    background: #0f79af;
+    width: 280px;
+    height: 48px;
+    color: white;
+    align-items: center;
+    font-family:'Roboto', sTajawal;
+    margin-left: -620px;
+    text-align: center;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.ninethsec{
+    width: 100%;
+    background-image: url(img/chota\ beem\ pic.jpg);
+    height:500px ;
+
+display: flex;
+align-items: center;
+justify-content: left;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.box4{
+    background: #0f79af;
+    width: 280px;
+    height: 48px;
+    margin-bottom: -199px;
+    margin-left: -804px;
+    color: white;
+    align-items: center;
+    font-family:'Roboto', sTajawal;
+    text-align: center;
+    margin-top: -200px;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}   
+.tenthsec{
+    width: 50%;
+    color: white;
+    padding: 40px;
+    margin-top: -200px;
+}
+.tenthsec h1{
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 27px;
+}
+.tenthsec h4{
+    font-weight: normal;
+    font-size: 21px;
+}
+.footer{
+    width: 100%;
+    background:#222222;
+    height: 150px;
+}
+.footpic{
+    width: 600px;
+    height: 100px;
+    object-fit: none;
+    margin-left: 30%;
+    
+
+}
+.foottext1{
+    color: #0f79af;
+    text-align: center;
+}
+.foottext1 h4{
+    font-weight: normal;
+    
+}
+.foottext2{
+    color: #58707c;
+}

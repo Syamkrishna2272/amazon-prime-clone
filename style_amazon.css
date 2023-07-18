@@ -273,6 +273,9 @@ background-size: cover;
     width: 100%;
     background:#222222;
     height: 150px;
+    padding-bottom: 10px;
+
+
 }
 .footpic{
     width: 600px;
@@ -292,4 +295,5 @@ background-size: cover;
 }
 .foottext2{
     color: #58707c;
+  
 }
